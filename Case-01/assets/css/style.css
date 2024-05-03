@@ -1,0 +1,63 @@
+#main{
+    padding-top: 10%;
+    /*background-color: hotpink;*/
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    margin: auto;
+}
+
+hr{
+    width: 80%;
+    background-color: black;
+    height: 1px;
+}
+
+#main_sec{
+    width: 80vw;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    margin: auto;
+    padding-right: 10px;
+    padding-left: 10px;
+
+    background-color: lightgray;
+}
+
+h1{
+    color: darkred;
+    font-size: 35px;
+}
+
+#gif_div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#h1_id{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 120px;
+    height: 120px;
+}
+
+#house{
+    width: 200px;
+    height: 200px;
+}
+
+#men_div{
+    display: flex;
+}
